@@ -1,5 +1,4 @@
-# Olá! meu nome é Petrony e estou disponibilizando aqui um exemplo
-# de como é feito uma API Rest utilizando Spring Boot.
+# Olá! meu nome é Petrony e estou disponibilizando aqui um exemplo de como é feito uma API Rest utilizando Spring Boot.
 
 "Informações como o projeto foi desenvolvido".
 - Software foi desenvolvido utilizando o banco de dados PostgreSQL para salvar as informações da requisição).
@@ -23,6 +22,9 @@ Passos para executar o projeto.
 
 Este projeto demostra como é feito uma API Rest utilizando Java Spring Boot
 
+Link para download do PostgreSQL (https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+
 Boa sorte por ai, qualquer duvida envie um e-mail para 
 petronypimentel@hotmail.com
+
 
